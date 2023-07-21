@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.some-color{
+    color:white;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.some-color:hover{
+    color: white;
+}
+.book{
+    font-family: 'Caprasimo', cursive;
+}
+.span{
+    color:black;
+    font-family: 'Oswald', sans-serif;
+}
+.lading-content{
+    background-image:url("./landing-img.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+    width:  100%;
+}
+.icon{
+   background-color: white;
+}
+.lading-text-1{
+   padding-top: 300px;
+   font-size: 50px;
+   
+
+}
+.lading-h1{
+    color:white;
+    font-family: 'Oswald', sans-serif;
+}
